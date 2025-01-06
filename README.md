@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML/CSS,SCSS/Less, React, React Native UI development**
 
-- 📫 How to reach me **rajinder231993@gmail.com**
+- 📫 How to reach me **rajindersaini207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
